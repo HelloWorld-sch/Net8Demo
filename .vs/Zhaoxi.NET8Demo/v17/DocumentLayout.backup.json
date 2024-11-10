@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C4F453-7BEF-4062-96C5-AFE79885E3DC}|Zhaoxi.NET8.Web\\Zhaoxi.NET8.Web.csproj|d:\\study\\c#\\.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\r25-2312\u5F55\u5236.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55p-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\zhaoxi.net8demo\\zhaoxi.net8.web\\views\\first\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3C4F453-7BEF-4062-96C5-AFE79885E3DC}|Zhaoxi.NET8.Web\\Zhaoxi.NET8.Web.csproj|solutionrelative:zhaoxi.net8.web\\views\\first\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C4F453-7BEF-4062-96C5-AFE79885E3DC}|Zhaoxi.NET8.Web\\Zhaoxi.NET8.Web.csproj|d:\\study\\c#\\.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\r25-2312\u5F55\u5236.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55p-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\zhaoxi.net8demo\\zhaoxi.net8.web\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C4F453-7BEF-4062-96C5-AFE79885E3DC}|Zhaoxi.NET8.Web\\Zhaoxi.NET8.Web.csproj|solutionrelative:zhaoxi.net8.web\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BA3A8A-92B5-4654-83C8-8484A2FC21CD}|Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj|d:\\study\\c#\\.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\r25-2312\u5F55\u5236.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55p-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\zhaoxi.net8demo\\zhaoxi.net8.webcore\\zhaoxi.net8.webcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37BA3A8A-92B5-4654-83C8-8484A2FC21CD}|Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj|solutionrelative:zhaoxi.net8.webcore\\zhaoxi.net8.webcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D82D38-6BDB-4F69-B959-8B627A3552D0}|Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj|d:\\study\\c#\\.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\r25-2312\u5F55\u5236.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55p-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\zhaoxi.net8demo\\zhaoxi.net7.consoles\\zhaoxi.net7.consoles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2D82D38-6BDB-4F69-B959-8B627A3552D0}|Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj|solutionrelative:zhaoxi.net7.consoles\\zhaoxi.net7.consoles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD802F6-2BB2-4853-8BB1-1905809804C6}|Zhaoxi.NET8.DemoTest\\Zhaoxi.NET8.DemoTest.csproj|d:\\study\\c#\\.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\r25-2312\u5F55\u5236.net8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55p-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\zhaoxi.net8demo\\zhaoxi.net8.demotest\\serializertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD802F6-2BB2-4853-8BB1-1905809804C6}|Zhaoxi.NET8.DemoTest\\Zhaoxi.NET8.DemoTest.csproj|solutionrelative:zhaoxi.net8.demotest\\serializertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.Web\\Views\\First\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zhaoxi.NET8.Web\\Views\\First\\Index.cshtml",
+              "ToolTip": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.Web\\Views\\First\\Index.cshtml",
+              "RelativeToolTip": "Zhaoxi.NET8.Web\\Views\\First\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:07:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.Web\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.NET8.Web\\Controllers\\FirstController.cs",
+              "ToolTip": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.Web\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "Zhaoxi.NET8.Web\\Controllers\\FirstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:07:38.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zhaoxi.NET8.WebCore",
+              "DocumentMoniker": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj",
+              "RelativeDocumentMoniker": "Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj",
+              "ToolTip": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj",
+              "RelativeToolTip": "Zhaoxi.NET8.WebCore\\Zhaoxi.NET8.WebCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T12:07:30.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zhaoxi.NET7.Consoles.csproj",
+              "DocumentMoniker": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj",
+              "RelativeDocumentMoniker": "Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj",
+              "ToolTip": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj",
+              "RelativeToolTip": "Zhaoxi.NET7.Consoles\\Zhaoxi.NET7.Consoles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T12:05:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SerializerTest.cs",
+              "DocumentMoniker": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.DemoTest\\SerializerTest.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.NET8.DemoTest\\SerializerTest.cs",
+              "ToolTip": "D:\\Study\\C#\\.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218\\R25-2312\u5F55\u5236.NET8.0\u4ECE\u5165\u95E8\u5230\u5B9E\u6218-55P-\u672A\u52A0\u5BC6\\000-\u8BFE\u4EF6\u6E90\u7801\u002B\u7B14\u8BB0\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.DemoTest\\SerializerTest.cs",
+              "RelativeToolTip": "Zhaoxi.NET8.DemoTest\\SerializerTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:01:26.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

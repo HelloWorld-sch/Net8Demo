@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zhaoxi.NET8.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Zhaoxi.NET8.WebApi.Controllers.FirstController">
+            <summary>
+            测试控制器
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.NET8.WebApi.Controllers.FirstController.Get">
+            <summary>
+            获取数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Zhaoxi.NET8.WebApi.Controllers.WeatherForecastController">
+            <summary>
+            测试控制器
+            </summary>
+        </member>
+        <member name="M:Zhaoxi.NET8.WebApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取数据
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

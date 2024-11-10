@@ -1,0 +1,12 @@
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.deps.json
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.csproj.AssemblyReference.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.AssemblyInfoInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.AssemblyInfo.cs
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.csproj.CoreCompileInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\refint\Zhaoxi.NET8.AutofacExtension.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.AutofacExtension\obj\Debug\net8.0\ref\Zhaoxi.NET8.AutofacExtension.dll

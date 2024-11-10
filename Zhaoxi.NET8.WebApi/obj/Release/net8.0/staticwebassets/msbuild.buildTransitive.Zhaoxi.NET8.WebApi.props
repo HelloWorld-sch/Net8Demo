@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Zhaoxi.NET8.WebApi.props" />
+</Project>

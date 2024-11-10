@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zhaoxi.NET8.WebMinimalApi.props" />
+</Project>

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.1.0" />
+    <PackageReference Include="Castle.Core" Version="5.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zhaoxi.NET8.AutofacExtension\Zhaoxi.NET8.AutofacExtension.csproj" />
+    <ProjectReference Include="..\Zhaoxi.NET8.Business.Interfaces\Zhaoxi.NET8.Business.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

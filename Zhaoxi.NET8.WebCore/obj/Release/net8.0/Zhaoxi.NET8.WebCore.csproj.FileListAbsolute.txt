@@ -1,0 +1,12 @@
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\bin\Release\net8.0\Zhaoxi.NET8.WebCore.deps.json
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\bin\Release\net8.0\Zhaoxi.NET8.WebCore.dll
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\bin\Release\net8.0\Zhaoxi.NET8.WebCore.pdb
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.csproj.AssemblyReference.cache
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.AssemblyInfoInputs.cache
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.AssemblyInfo.cs
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.csproj.CoreCompileInputs.cache
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.dll
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\refint\Zhaoxi.NET8.WebCore.dll
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\Zhaoxi.NET8.WebCore.pdb
+D:\Work\2023NET8教程\ResourceCode\Zhaoxi.NET8Demo\Zhaoxi.NET8.WebCore\obj\Release\net8.0\ref\Zhaoxi.NET8.WebCore.dll

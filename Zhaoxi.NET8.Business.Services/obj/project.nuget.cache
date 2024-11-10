@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWwI9aNrVR0=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\C#\\.NET8.0从入门到实战\\R25-2312录制.NET8.0从入门到实战-55P-未加密\\000-课件源码+笔记\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.Business.Services\\Zhaoxi.NET8.Business.Services.csproj",
+  "expectedPackageFiles": [
+    "D:\\Packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "D:\\Packages\\autofac.extras.dynamicproxy\\7.1.0\\autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
+    "D:\\Packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "D:\\Packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "D:\\Packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://dev.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://devthird.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://devhistory.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

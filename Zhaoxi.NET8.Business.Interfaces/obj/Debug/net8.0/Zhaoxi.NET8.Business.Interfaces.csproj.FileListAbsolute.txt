@@ -1,0 +1,15 @@
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.AssemblyInfoInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.AssemblyInfo.cs
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.csproj.CoreCompileInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\bin\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.deps.json
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\bin\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\bin\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\refint\Zhaoxi.NET8.Business.Interfaces.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\ref\Zhaoxi.NET8.Business.Interfaces.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.csproj.AssemblyReference.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\obj\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.csproj.CopyComplete

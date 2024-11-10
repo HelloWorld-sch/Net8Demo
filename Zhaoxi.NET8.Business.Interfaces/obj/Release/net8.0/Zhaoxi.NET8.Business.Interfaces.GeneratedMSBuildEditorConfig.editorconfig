@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zhaoxi.NET8.Business.Interfaces
+build_property.ProjectDir = D:\Study\C#\.NET8.0从入门到实战\R25-2312录制.NET8.0从入门到实战-55P-未加密\000-课件源码+笔记\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Interfaces\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

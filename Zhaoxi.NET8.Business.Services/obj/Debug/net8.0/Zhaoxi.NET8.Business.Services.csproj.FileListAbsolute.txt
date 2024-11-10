@@ -1,0 +1,17 @@
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.AssemblyInfoInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.AssemblyInfo.cs
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.csproj.CoreCompileInputs.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.Business.Services.deps.json
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.Business.Services.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.Business.Services.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.Business.Interfaces.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.csproj.AssemblyReference.cache
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.csproj.CopyComplete
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\refint\Zhaoxi.NET8.Business.Services.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\Zhaoxi.NET8.Business.Services.pdb
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\obj\Debug\net8.0\ref\Zhaoxi.NET8.Business.Services.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.dll
+D:\Work\2023NET8教程\ResourceCode\20231130\Zhaoxi.NET8Demo\Zhaoxi.NET8.Business.Services\bin\Debug\net8.0\Zhaoxi.NET8.AutofacExtension.pdb

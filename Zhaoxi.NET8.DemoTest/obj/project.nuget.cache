@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "dgSpecHash": "5E0Hvz5ZTNQ=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\C#\\.NET8.0从入门到实战\\R25-2312录制.NET8.0从入门到实战-55P-未加密\\000-课件源码+笔记\\Zhaoxi.NET8Demo\\Zhaoxi.NET8.DemoTest\\Zhaoxi.NET8.DemoTest.csproj",
+  "expectedPackageFiles": [
+    "D:\\Packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "D:\\Packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "D:\\Packages\\autofac.extras.dynamicproxy\\7.1.0\\autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
+    "D:\\Packages\\benchmarkdotnet\\0.13.11\\benchmarkdotnet.0.13.11.nupkg.sha512",
+    "D:\\Packages\\benchmarkdotnet.annotations\\0.13.11\\benchmarkdotnet.annotations.0.13.11.nupkg.sha512",
+    "D:\\Packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "D:\\Packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "D:\\Packages\\gee.external.capstone\\2.3.0\\gee.external.capstone.2.3.0.nupkg.sha512",
+    "D:\\Packages\\iced\\1.17.0\\iced.1.17.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "D:\\Packages\\microsoft.codeanalysis.common\\4.1.0\\microsoft.codeanalysis.common.4.1.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.codeanalysis.csharp\\4.1.0\\microsoft.codeanalysis.csharp.4.1.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.diagnostics.netcore.client\\0.2.251802\\microsoft.diagnostics.netcore.client.0.2.251802.nupkg.sha512",
+    "D:\\Packages\\microsoft.diagnostics.runtime\\2.2.332302\\microsoft.diagnostics.runtime.2.2.332302.nupkg.sha512",
+    "D:\\Packages\\microsoft.diagnostics.tracing.traceevent\\3.0.2\\microsoft.diagnostics.tracing.traceevent.3.0.2.nupkg.sha512",
+    "D:\\Packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "D:\\Packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "D:\\Packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "D:\\Packages\\perfolizer\\0.2.1\\perfolizer.0.2.1.nupkg.sha512",
+    "D:\\Packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "D:\\Packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "D:\\Packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "D:\\Packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "D:\\Packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "D:\\Packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://dev.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://devthird.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://devhistory.nuget.beisencorp.com/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
